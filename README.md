@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/nitaicharan/nitaicharan/blob/master/devcard.svg" width="400" alt="Nita Charan's Dev Card"/></a>
+<a href="https://app.daily.dev/nitaicharan"><img src="https://github.com/nitaicharan/nitaicharan/blob/master/devcard.svg" width="400" alt="Nita Charan's Dev Card"/></a>
 
 [![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
