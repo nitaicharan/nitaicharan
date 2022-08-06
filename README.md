@@ -1,4 +1,70 @@
-<a href="https://app.daily.dev/nitaicharan"><img src="https://github.com/nitaicharan/nitaicharan/blob/master/devcard.svg" width="400" alt="Nita Charan's Dev Card"/></a>
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.languages.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.lines.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.topics.icons.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.stars.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.habits.charts.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.habits.charts.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.contributors.categories.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.reactions.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.introduction.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.discussions.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.calendar.full.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.notable.indepth.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.activity.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/nitaicharan">
+<img src="/metrics.plugin.traffic.svg" alt="Full yarn nitaicharan metrics" width="100%">
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img alt="nitaicharan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=nitaicharan&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" />
+</a>
+
+<a href="https://app.daily.dev/nitaicharan">
+<img src="/devcard.svg" width="100%" alt="Nita Charan's Dev Card"/>
+</a>
 
 [![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
