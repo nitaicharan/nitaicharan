@@ -1,0 +1,58 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 16 * * *"}]
+  workflow_dispatch:
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🦑 Organization introduction
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: nitaicharan
+          base: header
+          plugin_introduction: yes
+
+      - name: 🦑 Compact display in base plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
+
+      - name: 🦑 Comment reactions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+
+      - name: 🦑 Most used
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+
+      - name: 🦑 Recently starred
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
